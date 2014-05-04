@@ -19,3 +19,5 @@ the file pi-billion.txt.
   Command: $ ipython notebook --pylab=inline
 
 - run the notebook in the browser (Menu -> Cell -> Run All)
+
+The results of running the notebook in a multicore Linux machine with 32Gb RAM and 8 CPU cores can be visualised here: http://nbviewer.ipython.org/github/luciasantamaria/irrationalfun/blob/master/IrrationalFun.ipynb
